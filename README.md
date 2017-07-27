@@ -1,7 +1,8 @@
 # diarium2journey
-Convert Diarium HTML Export into journey.zip for import in Journey
+This converts Diarium HTML Exports into journey.zip for import in Journey
 
 Diarium is a nice Windows 10 UWP App https://timopartl.com/#diarium
+
 Journey is a nice multi plattform diary app.
 
 My issue was that I like to write diary entries on my phone. But I recently migrated away from Windows 10 Mobile. So I wanted to take with me all my precious diary entries to my new home Journey.
