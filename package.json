@@ -1,0 +1,26 @@
+{
+  "name": "diarium2journey",
+  "version": "1.0.0",
+  "description": "Converts data from Diarium export into zip file for Jorney import.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Garfonso",
+  "license": "MIT",
+  "dependencies": {
+    "he": "^1.1.1",
+    "promise": "^8.0.1",
+    "striptags": "^3.0.1",
+    "zip-local": "^0.3.4"
+  },
+  "eslintConfig": {
+    "env": {
+      "node": true
+    },
+    "parserOptions": {
+      "ecmaVersion": 6
+    }
+  },
+  "repository": "https://github.com/Garfonso/diarium2journey/"
+}
